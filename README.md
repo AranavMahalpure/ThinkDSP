@@ -186,7 +186,7 @@ names, so it should be easy to find their sources.
 Unfortunately, most Freesound users don't make their real names
 available, so I can only thank them using their user names.  Samples
 used in this book were contributed by Freesound users: iluppai,
-wcfl10, thirsk, docquesting, kleeb, landup, zippi1, themusicalnomad,
+wcfl10, thirsk, do questing, kleeb, landup, zippi1, themusicalnomad,
 bcjordan, rockwehrmann, marchascon7, jcveliz.  Thank you all!
 
 Here are links to the sources:
